@@ -1,0 +1,36 @@
+Exemplos de palavras palíndromas:
+
+ovo: Uma das mais simples e conhecidas.
+osso: Outro exemplo básico e comum.
+radar: Um termo frequentemente usado para se referir ao dispositivo de detecção.
+reviver: Palavra que indica o ato de voltar a viver.
+rotor: Peça rotativa em máquinas.
+ana: Um nome próprio.
+ele: Pronome pessoal.
+asa: Parte do corpo de uma ave.
+mirim: Criança indígena.
+osso: Parte do corpo humano.
+anilina: Composto químico.
+arara: Ave da fauna brasileira.
+mirim: Pequeno, diminuto.
+omissíssimo: O mais omisso possível.
+sopapos: Tapas, bofetadas.
+socos: Golpes com o punho fechado.
+oco: Vazio, sem conteúdo.
+sós: Sozinhos.
+ovo: Alimento.
+reviver: Voltar a viver.
+reger: Governar, conduzir. 
+
+Exemplos de frases palíndromas:
+
+"A diva da DALVA ama a diva."
+"A grama é amarga."
+"Roma me tem amor."
+"Socorram-me, subi no ônibus em Marrocos."
+"A base da asa abana."
+"O lobo ama o bolo."
+"A mala nada na lama."
+"Era com raro nome, Marcos."
+"Olavo ama a lagoa."
+"Saíram o Tio e oito Marias"
